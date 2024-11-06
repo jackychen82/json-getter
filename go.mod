@@ -1,3 +1,3 @@
-module jsongetter
+module github.com/jackychen82/json-getter
 
-go 1.22.2
+go 1.23.1
